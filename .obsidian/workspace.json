@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/01-programming-basics/introduction-to-programming.md",
+                "file": "theory/02-flow of program/flow-of-program.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "introduction-to-programming"
+              "title": "flow-of-program"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/01-programming-basics/introduction-to-programming.md",
+                "file": "theory/02-flow of program/flow-of-program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for introduction-to-programming"
+              "title": "Backlinks for flow-of-program"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/01-programming-basics/introduction-to-programming.md",
+                "file": "theory/02-flow of program/flow-of-program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from introduction-to-programming"
+              "title": "Outgoing links from flow-of-program"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/01-programming-basics/introduction-to-programming.md",
+                "file": "theory/02-flow of program/flow-of-program.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of introduction-to-programming"
+              "title": "Outline of flow-of-program"
             }
           }
         ]
@@ -185,8 +185,12 @@
   },
   "active": "1bea452d240a2724",
   "lastOpenFiles": [
-    "theory/01-programming-basics.md",
     "theory/01-programming-basics/introduction-to-programming.md",
+    "theory/02-flow of program/flow-of-program.md",
+    "theory/02-flow of program",
+    "Untitled",
+    "theory/02-flow of program.md",
+    "theory/01-programming-basics.md",
     "theory/01-programming-basics",
     "theory",
     "roadmap",
