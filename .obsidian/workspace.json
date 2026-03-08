@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "425b45af2c1081fd",
@@ -185,19 +186,21 @@
   },
   "active": "1bea452d240a2724",
   "lastOpenFiles": [
+    "theory/04-first-java-program/type_conversion&casting.txt",
+    "theory/04-first-java-program/notes.txt",
+    "theory/04-first-java-program/literals.txt",
+    "theory/04-first-java-program/Handwritten notes Lecture 5.pdf",
+    "theory/04-first-java-program/First_Java_Program_Notes.pdf",
+    "implementations/Tutorials-1/first-java-programming",
+    "theory/04-first-java-program/first-java-programming/src/main/java/com/activearc/TypeCasting.java",
+    "theory/04-first-java-program/first-java-programming/src/main/java/com/activearc/Temperature.java",
+    "theory/04-first-java-program/first-java-programming/src/main/java/com/activearc/Sum.java",
+    "theory/04-first-java-program/first-java-programming/src/main/java/com/activearc/Primitives.java",
+    "theory/04-first-java-program/first-java-programming/src/main/java/com/activearc/Prime.java",
     "theory/02-flow of program/flow-of-program.md",
     "theory/03-Introduction to Java - Architecture & Installation/java-architecture-and-installation.md",
-    "theory/03-Introduction to Java - Architecture & Installation",
     "theory/01-programming-basics/introduction-to-programming.md",
-    "theory/02-flow of program",
-    "Untitled",
     "theory/02-flow of program.md",
-    "theory/01-programming-basics.md",
-    "theory/01-programming-basics",
-    "theory",
-    "roadmap",
-    "leetcode",
-    "implementations",
-    "diagrams"
+    "theory/01-programming-basics.md"
   ]
 }
