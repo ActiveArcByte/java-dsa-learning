@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/03-Introduction to Java - Architecture & Installation/java-architecture-and-installation.md",
+                "file": "theory/04-first-java-program/first-java-program.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "java-architecture-and-installation"
+              "title": "first-java-program"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "425b45af2c1081fd",
@@ -95,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/03-Introduction to Java - Architecture & Installation/java-architecture-and-installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for java-architecture-and-installation"
+              "title": "Backlinks"
             }
           },
           {
@@ -114,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/03-Introduction to Java - Architecture & Installation/java-architecture-and-installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from java-architecture-and-installation"
+              "title": "Outgoing links"
             }
           },
           {
@@ -157,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/03-Introduction to Java - Architecture & Installation/java-architecture-and-installation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of java-architecture-and-installation"
+              "title": "Outline"
             }
           }
         ]
@@ -186,6 +182,11 @@
   },
   "active": "1bea452d240a2724",
   "lastOpenFiles": [
+    "theory/04-first-java-program/First_Java_Program_Notes.pdf",
+    "theory/04-first-java-program/first-java-program.md",
+    "theory/04-first-java-program/Handwritten notes Lecture 5.pdf",
+    "2026-03-08.md",
+    "theory/03-Introduction to Java - Architecture & Installation/java-architecture-and-installation.md",
     "implementations/first-java-programming/src/main/java/com/activearc/TypeCasting.java",
     "implementations/first-java-programming/src/main/java/com/activearc/Temperature.java",
     "implementations/first-java-programming/src/main/java/com/activearc/Sum.java",
@@ -195,10 +196,7 @@
     "implementations/first-java-programming/src/main/java/com/activearc/Inputes.java",
     "implementations/first-java-programming/src/main/java/com/activearc/Basics.java",
     "implementations/first-java-programming/src/main/java/com/activearc",
-    "implementations/first-java-programming/src/main/java/com",
-    "implementations/first-java-programming/src/test/java",
     "theory/02-flow of program/flow-of-program.md",
-    "theory/03-Introduction to Java - Architecture & Installation/java-architecture-and-installation.md",
     "theory/01-programming-basics/introduction-to-programming.md",
     "theory/02-flow of program.md",
     "theory/01-programming-basics.md"
